@@ -51,6 +51,7 @@ public class AviaSouls {
                 }
             }
         }
+        Arrays.sort(result);
         return result;
     }
 
